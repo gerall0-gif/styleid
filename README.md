@@ -10,4 +10,4 @@ Style.Id adalah toko fashion online yang menyediakan berbagai pilihan pakaian de
 - Navigasi mudah
 
 ## Kontak
-📞 WhatsApp: 0895635001269
+📞 WhatsApp: 
